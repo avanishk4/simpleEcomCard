@@ -5,7 +5,7 @@ function App() {
   const products = [
     {
       productName: "Samsung",
-      price: 500,
+      price: 700,
       image: "./src/assets/apple-watch.png",
     },
     {
